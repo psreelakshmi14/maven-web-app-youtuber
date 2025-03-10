@@ -122,7 +122,7 @@
 <body>
 
 <header>
-  <h1>Welcome to RR TECHNOSOFT Institute</h1>
+  <h1>Welcome to RR TECHNOSOFFT Institute</h1>
   <h2>Multi-Cloud with DevOps Class</h2>
 </header>
 
